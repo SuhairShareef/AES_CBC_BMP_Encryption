@@ -1,8 +1,6 @@
 # AES_CBC_BMP_Encryption
 **This is a project for encrypting and decrypting a bitmap image using AES CBC mode and RC4 random number generator**
 
-Author: Suhair Shareef
-
 # Features
 
   * Wide ranges of valid input images
